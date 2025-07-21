@@ -1,0 +1,9 @@
+{
+    "query_id": 10,
+    "query": "Show me research on black hole physics authored by Kip Thorne published in Astrophysical Journal in 1975",
+    "ground_truth_papers": [
+        "CYGNUS X-l : AN INTERPRETATION OF THE SPECTRUM AND ITS VARIABILITY. ",
+        "RED GIANTS AND SUPERGIANTS WITH DEGENERATE NEUTRON CORES. ",
+        "THE GENERATION OF GRAVITATIONAL WAVES. I. WEAK-FIELD SOURCES. "
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "query_id": 6,
+    "query": "Give me articles on adversarial machine learning written by Ian Goodfellow published in arXiv since 2019.",
+    "ground_truth_papers": [
+        "Enabling certification of verification-agnostic networks via memory-efficient semidefinite programming. ",
+        "Creating High Resolution Images with a Latent\u00a0Adversarial\u00a0Generator. ",
+        "Imperceptible, Robust, and Targeted\u00a0Adversarial\u00a0Examples for Automatic Speech Recognition. ",
+        "A Research Agenda: Dynamic Models to Defend Against Correlated Attacks. ",
+        "On Evaluating\u00a0Adversarial\u00a0Robustness. ",
+        "A domain agnostic measure for monitoring and evaluating GANs. ",
+        "Self-Attention Generative\u00a0Adversarial\u00a0Networks. ",
+        "Ensemble\u00a0Adversarial\u00a0Training: Attacks and Defenses. ",
+        "Adversarial\u00a0Training Methods for Semi-Supervised Text Classification. "
+    ]
+}

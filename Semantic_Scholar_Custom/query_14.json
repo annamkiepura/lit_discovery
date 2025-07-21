@@ -1,0 +1,7 @@
+{
+    "query_id": 14,
+    "query": "Search for publications on Alzheimer\u2019s disease biomarkers by Lisa Barnes published in JAMA Neurology in 2019.",
+    "ground_truth_papers": [
+        "Biomarkers for Alzheimer Dementia in Diverse Racial and Ethnic Minorities-A Public Health Priority. "
+    ]
+}

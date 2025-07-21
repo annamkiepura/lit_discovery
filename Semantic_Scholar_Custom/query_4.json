@@ -1,0 +1,14 @@
+{
+    "query_id": 4,
+    "query": "I need studies related to synthetic biology written by George Church published in Science between 2015 and 2020.",
+    "ground_truth_papers": [
+        "Comprehensive AAV capsid fitness landscape reveals a viral gene and enables machine-guided design. ",
+        "Developmental barcoding of whole mouse via homing CRISPR. ",
+        "Molecular recordings by directed CRISPR spacer acquisition. ",
+        "Genome-wide inactivation of porcine endogenous retroviruses (PERVs). ",
+        "Inactivation of porcine endogenous retrovirus in pigs using CRISPR-Cas9.",
+        "In vivo gene editing in dystrophic mouse muscle and muscle stem cells.",
+        "Design, synthesis, and testing toward a 57-codon genome.",
+        "Titin mutations in iPS cells define sarcomere insufficiency as a cause of dilated cardiomyopathy."
+    ]
+}

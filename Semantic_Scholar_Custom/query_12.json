@@ -1,0 +1,5 @@
+{
+    "query_id": 12,
+    "query": "Find papers discussing reinforcement learning in robotics by Pieter Abbeel published in Robotics Science since 2020.",
+    "ground_truth_papers": []
+}

@@ -1,0 +1,5 @@
+{
+    "query_id": 11,
+    "query": "Retrieve publications on brain-machine interfaces by Miguel Nicolelis in Current Biology from 2016 to 2021.",
+    "ground_truth_papers": []
+}

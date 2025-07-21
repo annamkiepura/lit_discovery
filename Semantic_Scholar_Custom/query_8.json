@@ -1,0 +1,9 @@
+{
+    "query_id": 8,
+    "query": "Look for publications about protein folding authored by Demis Hassabis in Nature since 2021.",
+    "ground_truth_papers": [
+        "Accurate structure prediction of biomolecular interactions with AlphaFold 3. ",
+        "Highly accurate protein structure prediction with AlphaFold. ",
+        "Highly accurate protein structure prediction for the human proteome. "
+    ]
+}

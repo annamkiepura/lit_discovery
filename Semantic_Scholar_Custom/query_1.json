@@ -1,0 +1,10 @@
+{
+    "query_id": 1,
+    "query": "Find papers on deep reinforcement learning authored by David Silver published in NeurIPS since 2021.",
+    "ground_truth_papers": [
+        "Self-Consistent Models and Values.",
+        "Proper Value Equivalence.",
+        "Online and Offline Reinforcement Learning by Planning with a Learned Model.",
+        "Discovery of Options via Meta-Learned Subgoals."
+    ]
+}

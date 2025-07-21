@@ -1,0 +1,5 @@
+{
+    "query_id": 2,
+    "query": "Show me research about CRISPR gene editing by Jennifer Doudna in Nature Genetics before 2018. ",
+    "ground_truth_papers": []
+}

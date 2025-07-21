@@ -1,0 +1,11 @@
+{
+    "query_id": 9,
+    "query": "Find studies on self-supervised learning by Yann LeCun in Transactions on Machine Learning since 2022.",
+    "ground_truth_papers": [
+        "Blockwise Self-Supervised Learning at Scale. ",
+        "Bag of Image Patch Embedding Behind the Success of Self-Supervised Learning. ",
+        "VoLTA: Vision-Language Transformer with Weakly-Supervised Local-Feature Alignment. ",
+        "Augmented Language Models: a Survey. ",
+        "Sparse Coding with Multi-layer Decoders using Variance Regularization."
+    ]
+}

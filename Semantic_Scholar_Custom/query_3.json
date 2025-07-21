@@ -1,0 +1,8 @@
+{
+    "query_id": 3,
+    "query": "Retrieve publications on quantum computing by John Preskill from Physical Review Letters in 2022.",
+    "ground_truth_papers": [
+        "Collisions of False-Vacuum Bubble Walls in a Quantum Spin Chain. ",
+        "Building a Fault-Tolerant Quantum Computer Using Concatenated Cat Codes. "
+    ]
+}

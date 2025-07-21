@@ -1,0 +1,9 @@
+{
+    "query_id": 5,
+    "query": "Find recent work on explainable AI by Cynthia Rudin published in AAAI since 2020. ",
+    "ground_truth_papers": [
+        "Fast Sparse Decision Tree Optimization via Reference Ensembles.",
+        "Evaluating Pre-trial Programs Using Interpretable Machine Learning Matching Algorithms for Causal Inference. ",
+        "How Your Location Relates to Health: Variable Importance and Interpretable Machine Learning for Environmental and Sociodemographic Data. "
+    ]
+}

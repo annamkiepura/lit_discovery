@@ -1,0 +1,8 @@
+{
+    "query_id": 15,
+    "query": "Give me articles about social networks and misinformation by Sinan Aral published in Nature Human Behaviour since 2020.",
+    "ground_truth_papers": [
+        "Identity effects in social media. ",
+        "Global survey on COVID-19 beliefs, behaviours and norms. "
+    ]
+}
