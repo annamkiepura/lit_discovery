@@ -1,0 +1,15 @@
+{
+    "query_id": 22,
+    "query": "Find me articles written by Isabelle Augenstein, excluding those published in ACL and including only those mentioning latent multi-task architecture. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Isabelle Augenstein",
+            "!Venue:ACL",
+            "latent multi-task architecture"
+        ]
+    },
+    "ground_truth_papers": [
+        "Latent multi-task architecture learning."
+    ]
+}

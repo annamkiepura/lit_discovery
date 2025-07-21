@@ -1,0 +1,17 @@
+{
+    "query_id": 30,
+    "query": "I want to find papers written by Jianying Lin and Rui Liu about multi-document summarization, especially those mentioning manifold ranking. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Jianying Lin",
+            "Author.FullName:Rui Liu",
+            "multi-document summarization",
+            "manifold ranking"
+        ]
+    },
+    "ground_truth_papers": [
+        "Joint Lifelong Topic Model and Manifold Ranking for Document Summarization.",
+        "Using Query Expansion in Manifold Ranking for Query-Oriented Multi-Document Summarization."
+    ]
+}

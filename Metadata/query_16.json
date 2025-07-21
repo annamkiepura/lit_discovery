@@ -1,0 +1,17 @@
+{
+    "query_id": 16,
+    "query": "Get me articles on schizophrenia published in Therapeutic Advances in Psychopharmacology 2020 and 2024, excluding the ones involving in vivo experiments. Include only the papers authored by Joanna Moncrieff. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Joanna Moncrieff",
+            "Venue:Therapeutic Advances in Psychopharmacology",
+            "2020..2024",
+            "schizophrenia",
+            "!in vivo experiments"
+        ]
+    },
+    "ground_truth_papers": [
+        "Barriers to stopping neuroleptic (antipsychotic) treatment in people with schizophrenia, psychosis or bipolar disorder. "
+    ]
+}

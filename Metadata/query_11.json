@@ -1,0 +1,16 @@
+{
+    "query_id": 11,
+    "query": "Find articles on quantum computing, written by Mohamad Taghi Dejpasand in 2023 in Quantum Reports, particularly on quantum error correction. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Mohamad Taghi Dejpasand",
+            "Venue:Quantum Reports",
+            "2023",
+            "quantum error correction"
+        ]
+    },
+    "ground_truth_papers": [
+        "Research Trends in Quantum Computers by Focusing on Qubits as Their Building Blocks."
+    ]
+}

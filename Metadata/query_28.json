@@ -1,0 +1,23 @@
+{
+    "query_id": 28,
+    "query": "I\u2019m looking for studies by Torsten Zesch, published between 2006 and 2008, mentioning semantic relatedness, using WordNet or Wikipedia category graph, discussing antonyms or thesaurus. I\u2019m not interested in AAAI papers, nor papers mentioning distributional measures or KBs for NLP. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Torsten Zesch",
+            "2006..2008",
+            "semantic relatedness",
+            "WordNet|Wikipedia category graph",
+            "Antonyms|thesaurus",
+            "!Venue: AAAI",
+            "!distributional measures",
+            "!KBs for NLP"
+        ]
+    },
+    "ground_truth_papers": [
+        "Analysis of the Wikipedia category graph for NLP applications.",
+        "Automatically creating datasets for measures of semantic relatedness.",
+        "Extracting lexical semantic knowledge from Wikipedia and Wiktionary.",
+        "Analyzing and accessing Wikipedia as a lexical semantic resource."
+    ]
+}

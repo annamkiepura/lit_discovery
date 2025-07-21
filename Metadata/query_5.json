@@ -1,0 +1,18 @@
+{
+    "query_id": 5,
+    "query": "Show articles by Renier Laurent from 2005 related to sensory substitution, but excluding the ones published in PLOS one, Perception, or Neuroimage. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Renier Laurent",
+            "!Venue:PLOS One",
+            "!Venue:Perception",
+            "!Venue:Neuroimage",
+            "2005",
+            "sensory substitution"
+        ]
+    },
+    "ground_truth_papers": [
+        "Cognitive and brain mechanisms in sensory substitution of vision: a contribution to the study of human perception."
+    ]
+}

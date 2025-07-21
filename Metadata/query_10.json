@@ -1,0 +1,19 @@
+{
+    "query_id": 10,
+    "query": "Show me papers published by Dominik Hartl in Frontiers in Cellular and Infection Microbiology in 2018 especially related to the following sentence: Staphylococcus aureus is one of the major human pathogenic bacteria that can cause a broad spectrum of moderate to severe infections ranging from skin and orthopedic infections to fatal necrotizing pneumonia and sepsis.",
+    "keywords": {
+        "Semantic Query": "Staphylococcus aureus is one of the major human pathogenic bacteria that can cause a broad spectrum of moderate to severe infections ranging from skin and orthopedic infections to fatal necrotizing pneumonia and sepsis.",
+        "Keywords": [
+            "Author.FullName:Dominik Hartl",
+            "Venue:Frontiers in Cellular and Infection Microbiology",
+            "Staphylococcus aureus",
+            "necrotizing pneumonia",
+            "sepsis",
+            "orthopedic infections",
+            "2018"
+        ]
+    },
+    "ground_truth_papers": [
+        "Staphylococcal Enterotoxins Dose-Dependently Modulate the Generation of Myeloid-Derived Suppressor Cells."
+    ]
+}

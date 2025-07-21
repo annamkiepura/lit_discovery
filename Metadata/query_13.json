@@ -1,0 +1,15 @@
+{
+    "query_id": 13,
+    "query": "Find articles published in Proceedings of the IEEE between 2014 and 2016 that are co-authored by Shih-Chii Liu.",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Shih-Chii Liu",
+            "Venue:Proceedings of the IEEE",
+            "2014..2016"
+        ]
+    },
+    "ground_truth_papers": [
+        "Memory and information processing in neuromorphic systems."
+    ]
+}

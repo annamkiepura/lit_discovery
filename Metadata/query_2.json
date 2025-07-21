@@ -1,0 +1,18 @@
+{
+    "query_id": 2,
+    "query": "Show me publications by Yuriy Portnov in the International Journal of Geometric Methods in Modern Physics from 2010 to 2020 but not 2013, related to black holes or dark matter, mentioning event horizon\u2019s and especially articles that discuss: The event horizon\u2019s impact on surrounding matter. ",
+    "keywords": {
+        "Semantic Query": "The event horizon's impact on surrounding matter.",
+        "Keywords": [
+            "Author.FullName:Yuriy Portnov",
+            "Venue:International Journal of Geometric Methods in Modern Physics",
+            "2010..2020",
+            "!2013",
+            "black holes|dark matter",
+            "event horizon"
+        ]
+    },
+    "ground_truth_papers": [
+        "Change in event horizon surface area as the source of nonmetricity field."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "query_id": 29,
+    "query": "Give ma papers published in Nature in 2013 that were co-authored by Cyriac Kandoth about somatic variants across\u00a0tumours. Include only the papers that mention DNA sequencing technologies. ",
+    "keywords": {
+        "Semantic Query": "somatic variants across tumours.",
+        "Keywords": [
+            "Author.FullName:Cyriac Kandoth",
+            "Venue:Nature",
+            "2013",
+            "DNA sequencing technologies",
+            "tumours"
+        ]
+    },
+    "ground_truth_papers": [
+        "Mutational landscape and significance across 12 major cancer types."
+    ]
+}

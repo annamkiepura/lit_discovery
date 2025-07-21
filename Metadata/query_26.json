@@ -1,0 +1,16 @@
+{
+    "query_id": 26,
+    "query": "I\u2019m looking for studies authored by Jure Majnik in 2024, especially those discussing visual ecology and reinforcement learning, in which they study the lifespan of agents in a foraging task with visually diverse foods. ",
+    "keywords": {
+        "Semantic Query": "Lifespan of agents in a foraging task with visually diverse foods.",
+        "Keywords": [
+            "Author.FullName:Jure Majnik",
+            "2024",
+            "visual ecology",
+            "reinforcement learning"
+        ]
+    },
+    "ground_truth_papers": [
+        "A computational approach to visual ecology with deep reinforcement learning."
+    ]
+}

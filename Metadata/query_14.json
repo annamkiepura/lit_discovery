@@ -1,0 +1,20 @@
+{
+    "query_id": 14,
+    "query": "I am interested in papers about automatic citation text generation, written after 2020, except those involving sentiment control and including only the ones co-authored by Jessica Ouyang.",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Jessica Ouyang",
+            "2021..2024",
+            "citation text generation",
+            "!sentiment control"
+        ]
+    },
+    "ground_truth_papers": [
+        "CORWA: A Citation-Oriented Related Work Annotation Dataset.",
+        "Cited Text Spans for Scientific Citation Text Generation.",
+        "Related Work and Citation Text Generation: A Survey.",
+        "Contextualizing Generated Citation Texts.",
+        "Improving Citation Text Generation: Overcoming Limitations in Length Control."
+    ]
+}

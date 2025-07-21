@@ -1,0 +1,20 @@
+{
+    "query_id": 4,
+    "query": "I need papers by Punam Malik, excluding those published in PLOS One, from 2013 to 2020, about pulmonary macrophage transplantation therapy, excluding the ones mentioning herPAP disease, iPS cells, and CRISPR/Cas9. ",
+    "keywords": {
+        "Semantic Query": "Pulmonary macrophage transplantation therapy.",
+        "Keywords": [
+            "Author.FullName:Punam Malik",
+            "!Venue:PLOS One",
+            "2013..2020",
+            "pulmonary macrophage",
+            "transplantation therapy",
+            "!herPAP disease",
+            "!iPS cells",
+            "!CRISPR/Cas9"
+        ]
+    },
+    "ground_truth_papers": [
+        "Pulmonary macrophage transplantation therapy."
+    ]
+}

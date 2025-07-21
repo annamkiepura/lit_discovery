@@ -1,0 +1,17 @@
+{
+    "query_id": 17,
+    "query": "Find research papers on computer vision from 2015 written by Alain Issard, focusing on embedded multiprocessors, but not discussing trace acquisition. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Alain Issard",
+            "2015",
+            "computer vision",
+            "embedded multiprocessors",
+            "!trace acquisition"
+        ]
+    },
+    "ground_truth_papers": [
+        "Estimating the Potential Speedup of Computer Vision Applications on Embedded Multiprocessors."
+    ]
+}

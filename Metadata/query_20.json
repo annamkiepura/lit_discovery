@@ -1,0 +1,22 @@
+{
+    "query_id": 20,
+    "query": "Get me papers authored by Giacomo Indiveri written in 2018 on neuromorphic systems. I\u2019m only interested in papers that mention the Address-Event Representation but do not discuss stochastic learning, EMG, and CPGs. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Giacomo Indiveri",
+            "2018",
+            "neuromorphic systems",
+            "Address-Event Representation",
+            "!stochastic learning",
+            "!EMG",
+            "!CPGs"
+        ]
+    },
+    "ground_truth_papers": [
+        "A bi-directional Address-Event transceiver block for low-latency inter-chip communication in neuromorphic systems.",
+        "A clock-less ultra-low power bit-serial LVDS link for Address-Event multi-chip systems.",
+        "Organizing Sequential Memory in a Neuromorphic Device Using Dynamic Neural Fields.",
+        "Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain."
+    ]
+}

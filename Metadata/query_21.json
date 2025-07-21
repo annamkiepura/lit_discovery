@@ -1,0 +1,17 @@
+{
+    "query_id": 21,
+    "query": "I\u2019m looking for papers about Tau protein aggregation and its roles and implications in the Alzheimer\u2019s disease (AD), written in 2011 in Journal of Neuroscience. Especially the ones mentioning tau aggregation. Include only the papers written by E. Waxman. I\u2019m especially interested in papers that propose a human-derived cellular model. ",
+    "keywords": {
+        "Semantic Query": "human-derived cellular model",
+        "Keywords": [
+            "Author.FullName:E. Waxman",
+            "Venue:Journal of Neuroscience",
+            "2011",
+            "Tau aggregation",
+            "Alzheimer\u2019s disease"
+        ]
+    },
+    "ground_truth_papers": [
+        "Induction of Intracellular Tau Aggregation Is Promoted by \u03b1-Synuclein Seeds and Provides Novel Insights into the Hyperphosphorylation of Tau."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "query_id": 19,
+    "query": "Show me papers from 2020 to 2022 authored by Hiroshi Tanaka, especially the ones on deep mycosis test and mentioning Japanese Cedar Pollen.",
+    "keywords": {
+        "Semantic Query": "Deep mycosis test mentioning Japanese Cedar Pollen",
+        "Keywords": [
+            "Author.FullName:Hiroshi Tanaka",
+            "2020..2022",
+            "deep mycosis test",
+            "Japanese Cedar Pollen"
+        ]
+    },
+    "ground_truth_papers": [
+        "Possibility of Japanese Cedar Pollen Causing False Positives in the Deep Mycosis Test."
+    ]
+}

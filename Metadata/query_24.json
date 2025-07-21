@@ -1,0 +1,16 @@
+{
+    "query_id": 24,
+    "query": " I\u2019m looking for papers published in 2017 that are related to the following sentence: Training of neural machine translation (MNT) models usually uses mini-batches for efficiency purposes. Give only the papers co-authored by Makoto Morishita. ",
+    "keywords": {
+        "Semantic Query": "Training of neural machine translation (NMT) models usually uses mini-batches for efficiency purposes.",
+        "Keywords": [
+            "Author.FullName:Makoto Morishita",
+            "Venue:ACL",
+            "2017",
+            "Neural Machine Translation"
+        ]
+    },
+    "ground_truth_papers": [
+        "An Empirical Study of Mini-Batch Creation Strategies for Neural Machine Translation."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "query_id": 12,
+    "query": "Retrieve papers by Nianlong Gu, published after 2020, excluding the ones co-authored by Yingqiang Gao and excluding those related to neuroscience and those including German. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Nianlong Gu",
+            "!Author.FullName:Yingqiang Gao",
+            "2021..2024",
+            "!neuroscience",
+            "!german"
+        ]
+    },
+    "ground_truth_papers": [
+        "MemSum: Extractive summarization of long documents using multi-step episodic Markov decision processes.",
+        "SCILIT: A Platform for Joint Scientific Literature Discovery, Summarization and Citation Generation.",
+        "Controllable citation sentence generation with language models.",
+        "Legal Extractive Summarization of U.S. Court Opinions."
+    ]
+}

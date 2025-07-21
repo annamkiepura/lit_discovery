@@ -1,0 +1,24 @@
+{
+    "query_id": 6,
+    "query": "Retrieve studies by Iryna Gurevych, excluding the ones co-authored by Nils Reimers, published from 2015 to 2020 about Transformers, particularly the ones related to multi-task learning and adapters, but excluding the ones mentioning dynamic CRFs, KMeans and LSTMs. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Iryna Gurevych",
+            "Author.FullName:!Nils Reimers",
+            "2015..2020",
+            "Transformers",
+            "multi-task learning",
+            "adapter",
+            "!dynamic CRFs",
+            "!KMeans",
+            "!LSTMs"
+        ]
+    },
+    "ground_truth_papers": [
+        "AdapterFusion: Non-destructive task composition for transfer learning.",
+        "AdapterHub: A Framework for Adapting Transformers.",
+        "MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer.",
+        "Common Sense or World Knowledge? Investigating Adapter-Based Knowledge Injection into Pretrained Transformers."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "query_id": 25,
+    "query": "Retrieve studies written by Valerio Mante in 2013, excluding those published in Journal of Neuroscience, especially mentioning the role of prefrontal cortex in behaviour, particularly at the neuronal population level. ",
+    "keywords": {
+        "Semantic Query": "The role of prefrontal cortex in behaviour, particularly at the neuronal population level.",
+        "Keywords": [
+            "Author.FullName:Valerio Mante",
+            "2013",
+            "!Venue:Journal of Neuroscience",
+            "prefrontal cortex",
+            "behaviour"
+        ]
+    },
+    "ground_truth_papers": [
+        "Context-dependent computation by recurrent dynamics in prefrontal cortex."
+    ]
+}

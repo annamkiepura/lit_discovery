@@ -1,0 +1,19 @@
+{
+    "query_id": 1,
+    "query": "Find articles authored by Anshul Gupta or Manisha Srivastava, published in IEEE between 2005 and 2012, excluding 2009, about classifiers or reinforcement learning, especially focusing on the statement: Deep neural networks have revolutionized pattern recognition. Exclude papers mentioning solvability modeling. ",
+    "keywords": {
+        "Semantic Query": "Deep neural networks have revolutionized pattern recognition.",
+        "Keywords": [
+            "Author.FullName:Anshul Gupta|Author.FullName:Manisha Srivastava",
+            "Venue:IEEE",
+            "2005..2012",
+            "!2009",
+            "classifier|reinforcement learning",
+            "!solvability modeling"
+        ]
+    },
+    "ground_truth_papers": [
+        "Offline handwritten character recognition using neural network.",
+        "Multifrontal Factorization of Sparse SPD Matrices on GPUs."
+    ]
+}

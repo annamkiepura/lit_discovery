@@ -1,0 +1,18 @@
+{
+    "query_id": 3,
+    "query": "I need articles published in Neurology or Nature in 2018, authored by Nils Henninger, focusing on Intracerebral Haemorrhages, particularly those that mention: Compare hematoma volume, hematoma expansion and clinical outcome in novel oral anticoagulant related and warfarin related intracerebral haemorrhages. ",
+    "keywords": {
+        "Semantic Query": "Compare hematoma volume, hematoma expansion and clinical outcome in novel oral anticoagulant related and warfarin related intracerebral haemorrhages.",
+        "Keywords": [
+            "Author.FullName:Nils Henninger",
+            "Venue:Neurology|Venue:Nature",
+            "2018",
+            "Intracerebral Haemorrhages",
+            "hematoma",
+            "warfarin"
+        ]
+    },
+    "ground_truth_papers": [
+        "Comparison of Clinical and Radiological Characteristics of Warfarin versus Novel Oral Anticoagulant Related Intracerebral Hemorrhages."
+    ]
+}

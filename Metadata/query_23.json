@@ -1,0 +1,17 @@
+{
+    "query_id": 23,
+    "query": "I want to find articles written by Pepa Atanasova in 2023 mentioning human-readable explanations, excluding the ones mentioning sequence classification and fact-checking. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Pepa Atanasova",
+            "2023",
+            "human-readable explanations",
+            "!sequence classification",
+            "!fact-checking"
+        ]
+    },
+    "ground_truth_papers": [
+        "Faithfulness Tests for Natural Language Explanations."
+    ]
+}

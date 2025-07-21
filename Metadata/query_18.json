@@ -1,0 +1,17 @@
+{
+    "query_id": 18,
+    "query": "Retrieve articles by Dai Owaki published in 2022 in the Frontiers in Robotics and AI that discuss legged locomotion, especially those that include: Advances in robotic inter-limb coordination. ",
+    "keywords": {
+        "Semantic Query": "Advances in robotic inter-limb coordination",
+        "Keywords": [
+            "Author.FullName:Dai Owaki",
+            "Venue:Frontiers in Robotics and AI",
+            "2022",
+            "legged locomotion",
+            "robotic inter-limb coordination"
+        ]
+    },
+    "ground_truth_papers": [
+        "Editorial: Biological and Robotic Inter-Limb Coordination."
+    ]
+}

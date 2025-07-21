@@ -1,0 +1,17 @@
+{
+    "query_id": 8,
+    "query": "Get me articles about transformers published between 2020 and 2024 related to the transformers applications for scientific text, including only the ones co-authored by Jessica Ouyang and not mentioning topic modelling. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Jessica Ouyang",
+            "2020..2024",
+            "Transformer",
+            "scientific texts",
+            "!Topic Modeling"
+        ]
+    },
+    "ground_truth_papers": [
+        "CORWA: A citation-oriented related work annotation dataset."
+    ]
+}

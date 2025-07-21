@@ -1,0 +1,17 @@
+{
+    "query_id": 9,
+    "query": "I need papers written by Daniel Sheridan and Probir Chakravarty published after 1999 about pituitary stem cells and their roles in regulation of reproductive functions. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Daniel Sheridan",
+            "Author.FullName:Probir Chakravarty",
+            "1999..2024",
+            "pituitary stem cells",
+            "reproductive functions"
+        ]
+    },
+    "ground_truth_papers": [
+        "Gonadotrophs have a dual origin, with most derived from pituitary stem cells during minipuberty. "
+    ]
+}

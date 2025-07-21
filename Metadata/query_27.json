@@ -1,0 +1,19 @@
+{
+    "query_id": 27,
+    "query": "Show studies written by Oliver Sturman between 2018 and 2020, excluding those published in Science. I\u2019m particularly interested in papers related to the following sentence: Typically, behavioral analysis relies on commercial equipment to track an animal's path of movement or measure the time spent in specific areas of testing arenas. Include only papers mentioning commercial solutions. I\u2019m not interested in papers mentioning rodent tracking or SIPEC. ",
+    "keywords": {
+        "Semantic Query": "Typically, behavioral analysis relies on commercial equipment to track an animal's path of movement or measure the time spent in specific areas of testing arenas.",
+        "Keywords": [
+            "Author.FullName:Oliver Sturman",
+            "2018..2020",
+            "!Venue:Science",
+            "commercial solutions",
+            "behavioral analysis",
+            "!rodent tracking",
+            "!SIPEC"
+        ]
+    },
+    "ground_truth_papers": [
+        "Deep learning-based behavioral analysis reaches human accuracy and is capable of outperforming commercial solutions."
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "query_id": 7,
+    "query": "I am looking for papers written by Richard Hahnloser but not Anja Zai, published in Nature before 2021 and related to vocal learning, but not utilising antidromic activation and not examining caudolateral mesopallium. ",
+    "keywords": {
+        "Semantic Query": "",
+        "Keywords": [
+            "Author.FullName:Richard Hahnloser",
+            "!Author.FullName:Anja Zai",
+            "Venue:Nature",
+            "1900..2020",
+            "vocal learning",
+            "!antidromic activation",
+            "!caudisraelateral mesopallium"
+        ]
+    },
+    "ground_truth_papers": [
+        "Nearest neighbours reveal fast and slow components of motor learning."
+    ]
+}
