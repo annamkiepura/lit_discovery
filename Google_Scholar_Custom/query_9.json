@@ -1,0 +1,4 @@
+{
+    "query_id": 9,
+    "structured_query": "(author:\"Daniel Sheridan\" AND author:\"Probir Chakravarty\") year(2000:) \"pituitary stem cells\" \"their roles in regulation of reproductive functions\""
+}

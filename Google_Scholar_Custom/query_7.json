@@ -1,0 +1,4 @@
+{
+    "query_id": 7,
+    "structured_query": "(author:\"Richard Hahnloser\" -author:\"Anja Zai\") source:\"Nature\" year(:2020) \"vocal learning\" -\"antidromic activation\" -\"caudolateral mesopallium\""
+}

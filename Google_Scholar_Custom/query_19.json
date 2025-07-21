@@ -1,0 +1,4 @@
+{
+    "query_id": 19,
+    "structured_query": "author:\"Hiroshi Tanaka\" year(2020:2022) \"deep mycosis test\" \"Japanese Cedar Pollen\""
+}

@@ -1,0 +1,4 @@
+{
+    "query_id": 23,
+    "structured_query": "author:\"Pepa Atanasova\" year(2023) \"human-readable explanations\" -\"sequence classification\" -\"fact-checking\""
+}

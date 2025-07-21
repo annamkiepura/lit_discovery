@@ -1,0 +1,4 @@
+{
+    "query_id": 1,
+    "structured_query": "(author:\"Anshul Gupta\" OR author:\"Manisha Srivastava\") source:\"IEEE\" year(2005:2012) -year:2009 (\"classifiers\" OR \"reinforcement learning\") \"Deep neural networks have revolutionized pattern recognition.\" -\"solvability modeling\""
+}

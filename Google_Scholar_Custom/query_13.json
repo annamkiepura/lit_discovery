@@ -1,0 +1,4 @@
+{
+    "query_id": 13,
+    "structured_query": "source:\"Proceedings of the IEEE\" year(2014:2016) author:\"Shih-Chii Liu\""
+}

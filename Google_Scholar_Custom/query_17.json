@@ -1,0 +1,4 @@
+{
+    "query_id": 17,
+    "structured_query": "author:\"Alain Issard\" year(2015) \"computer vision\" \"embedded multiprocessors\" -\"trace acquisition\""
+}

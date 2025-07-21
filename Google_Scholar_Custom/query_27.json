@@ -1,0 +1,4 @@
+{
+    "query_id": 27,
+    "structured_query": "author:\"Oliver Sturman\" -source:\"Science\" year(2018:2020) \"Typically, behavioral analysis relies on commercial equipment to track an animal's path of movement or measure the time spent in specific areas of testing arenas.\" \"commercial solutions\" -\"rodent tracking\" -\"SIPEC\""
+}

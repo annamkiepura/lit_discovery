@@ -1,0 +1,4 @@
+{
+    "query_id": 20,
+    "structured_query": "author:\"Giacomo Indiveri\" year(2018) \"neuromorphic systems\" \"Address-Event Representation\" -\"stochastic learning\" -\"EMG\" -\"CPGs\""
+}

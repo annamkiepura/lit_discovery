@@ -1,0 +1,4 @@
+{
+    "query_id": 12,
+    "structured_query": "(author:\"Nianlong Gu\" -author:\"Yingqiang Gao\") year(2021:) -\"neuroscience\" -\"German\""
+}

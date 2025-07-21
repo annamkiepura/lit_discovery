@@ -1,0 +1,4 @@
+{
+    "query_id": 14,
+    "structured_query": "author:\"Jessica Ouyang\" year(2021:) \"automatic citation text generation\" -\"sentiment control\""
+}

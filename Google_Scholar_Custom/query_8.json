@@ -1,0 +1,4 @@
+{
+    "query_id": 8,
+    "structured_query": "author:\"Jessica Ouyang\" year(2020:2024) \"transformers\" \"the transformers applications for scientific text\" -\"topic modelling\""
+}

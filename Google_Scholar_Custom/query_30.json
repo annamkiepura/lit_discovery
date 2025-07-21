@@ -1,0 +1,4 @@
+{
+    "query_id": 30,
+    "structured_query": "(author:\"Jianying Lin\" AND author:\"Rui Liu\") \"multi-document summarization\" \"manifold ranking\""
+}

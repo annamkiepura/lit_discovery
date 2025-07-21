@@ -1,0 +1,4 @@
+{
+    "query_id": 16,
+    "structured_query": "author:\"Joanna Moncrieff\" source:\"Therapeutic Advances in Psychopharmacology\" (year(2020) OR year(2024)) \"schizophrenia\" -\"in vivo experiments\""
+}

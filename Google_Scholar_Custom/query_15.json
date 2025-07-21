@@ -1,0 +1,4 @@
+{
+    "query_id": 15,
+    "structured_query": "(author:\"Angeliki Damilou\" -author:\"Tarik Regad\") source:\"Nature Communications\" year(2006:) \"inhibition in neocortex\""
+}

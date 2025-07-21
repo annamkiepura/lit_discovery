@@ -1,0 +1,4 @@
+{
+    "query_id": 5,
+    "structured_query": "author:\"Renier Laurent\" year(2005) \"sensory substitution\" -source:\"PLOS one\" -source:\"Perception\" -source:\"Neuroimage\""
+}

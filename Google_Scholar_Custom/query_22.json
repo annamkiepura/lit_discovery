@@ -1,0 +1,4 @@
+{
+    "query_id": 22,
+    "structured_query": "author:\"Isabelle Augenstein\" -source:\"ACL\" \"latent multi-task architecture\""
+}

@@ -1,0 +1,4 @@
+{
+    "query_id": 25,
+    "structured_query": "author:\"Valerio Mante\" -source:\"Journal of Neuroscience\" year(2013) \"the role of prefrontal cortex in behaviour\" \"neuronal population level\""
+}

@@ -1,0 +1,4 @@
+{
+    "query_id": 4,
+    "structured_query": "author:\"Punam Malik\" -source:\"PLOS One\" year(2013:2020) \"pulmonary macrophage transplantation therapy\" -\"herPAP disease\" -\"iPS cells\" -\"CRISPR/Cas9\""
+}

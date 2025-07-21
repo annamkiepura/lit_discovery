@@ -1,0 +1,4 @@
+{
+    "query_id": 24,
+    "structured_query": "author:\"Makoto Morishita\" year(2017) \"Training of neural machine translation (NMT) models usually uses mini-batches for efficiency purposes.\""
+}

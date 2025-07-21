@@ -1,0 +1,4 @@
+{
+    "query_id": 6,
+    "structured_query": "(author:\"Iryna Gurevych\" -author:\"Nils Reimers\") year(2015:2020) \"Transformers\" \"multi-task learning\" \"adapters\" -\"dynamic CRFs\" -\"KMeans\" -\"LSTMs\""
+}

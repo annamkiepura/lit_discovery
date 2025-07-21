@@ -1,0 +1,4 @@
+{
+    "query_id": 3,
+    "structured_query": "(source:\"Neurology\" OR source:\"Nature\") year(2018) author:\"Nils Henninger\" \"Intracerebral Haemorrhages\" \"Compare hematoma volume, hematoma expansion and clinical outcome in novel oral anticoagulant related and warfarin related intracerebral haemorrhages.\""
+}

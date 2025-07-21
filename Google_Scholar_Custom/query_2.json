@@ -1,0 +1,4 @@
+{
+    "query_id": 2,
+    "structured_query": "author:\"Yuriy Portnov\" source:\"International Journal of Geometric Methods in Modern Physics\" year(2010:2020) -year:2013 (\"black holes\" OR \"dark matter\") \"event horizon\u2019s\" \"The event horizon\u2019s impact on surrounding matter.\""
+}

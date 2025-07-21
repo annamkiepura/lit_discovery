@@ -1,0 +1,4 @@
+{
+    "query_id": 28,
+    "structured_query": "author:\"Torsten Zesch\" year(2006:2008) \"semantic relatedness\" (\"WordNet\" OR \"Wikipedia category graph\") (\"antonyms\" OR \"thesaurus\") -source:\"AAAI\" -\"distributional measures\" -\"KBs for NLP\""
+}
