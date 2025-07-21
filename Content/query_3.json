@@ -1,0 +1,14 @@
+{
+    "query_id": 3,
+    "keywords": [
+        "connectomics",
+        "entropy maximization",
+        "diffusion tensor imaging"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Biomedical Sciences on the topic of Machine learning for MRI that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "TractoInferno\u00a0- A large-scale, open-source, multi-site database for machine learning dMRI tractography.",
+        "Entrack: Probabilistic spherical regression with entropy regularization for fiber tractography."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "query_id": 1,
+    "keywords": [
+        "Asteroid mining",
+        "geomicrobiology",
+        "bioleaching"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Microbiology on the topic of Space Geomicrobiology that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Testing microbial biomining from asteroidal material onboard the International Space Station.",
+        "The smallest space miners: principles of space biomining.",
+        "In situ resource utilisation: the potential for space biomining.",
+        "Synthetic\u00a0geomicrobiology: engineering microbe\u2013mineral interactions for space exploration and settlement.",
+        "The confluence of heavy metal biooxidation and heavy metal resistance: implications for\u00a0bioleaching\u00a0by extreme thermoacidophiles.",
+        "Bioleaching\u00a0and biosorption of waste: Approaches and utilization.",
+        "Laboratory experiments on the weathering of iron meteorites and carbonaceous chondrites by iron\u2010oxidizing bacteria.",
+        "Geomicrobiology beyond Earth: microbe\u2013mineral interactions in space exploration and settlement."
+    ]
+}

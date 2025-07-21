@@ -1,0 +1,19 @@
+{
+    "query_id": 26,
+    "keywords": [
+        "Acoustic levitation",
+        "cell sorting",
+        "bioprinting",
+        "neurons"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Bioengineering on the topic of Biofabrication Technologies in Tissue Engineering that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Acoustofluidics\u2013changing paradigm in tissue engineering, therapeutics development, and biosensing. ",
+        "Viscoelasticity in 3D Cell Culture and Regenerative Medicine: Measurement Techniques and Biological Relevance. ",
+        "Assembling living building blocks to engineer complex tissues. ",
+        "Tissue Regeneration through Cyber\u2010Physical Systems and Microbots. ",
+        "Recapitulating pancreatic cell\u2013cell interactions through bioengineering approaches: the momentous role of non-epithelial cells for diabetes cell therapy",
+        "Towards artificial tissue models: past, present, and future of 3D bioprinting. "
+    ]
+}

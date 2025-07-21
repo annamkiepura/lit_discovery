@@ -1,0 +1,13 @@
+{
+    "query_id": 5,
+    "keywords": [
+        "Machine learning",
+        "avian migration patterns",
+        "habitat loss"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Ecology on the topic of Machine Learning for Avian Migration that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Forecasting\u00a0avian migration patterns\u00a0using a deep bidirectional rnn augmented with an auxiliary task."
+    ]
+}

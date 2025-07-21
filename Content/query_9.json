@@ -1,0 +1,13 @@
+{
+    "query_id": 9,
+    "keywords": [
+        "Metalloenzyme catalysis",
+        "directed evolution",
+        "biofuel production"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Biotechnology on the topic of Enzyme Engineering that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Towards a synthetic biology toolset for metallocluster enzymes in biosynthetic pathways: What we know and what we need. "
+    ]
+}

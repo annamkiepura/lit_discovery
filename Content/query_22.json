@@ -1,0 +1,14 @@
+{
+    "query_id": 22,
+    "keywords": [
+        "Risk aversion",
+        "dopamine pathways",
+        "neuroeconomic modeling"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Neuroscience on the topic of Neuroeconomics in Cognitive Disorders that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Decision-making and attention deficit hyperactivity disorder: neuroeconomic perspective. ",
+        "Exploring Neuro Management: Bridging Science and Leadership\u2013An Overview. "
+    ]
+}

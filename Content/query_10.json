@@ -1,0 +1,13 @@
+{
+    "query_id": 10,
+    "keywords": [
+        "Agent-based modeling",
+        "genetic regulatory networks",
+        "transcriptional noise"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in  Computational Biology on the topic of Genetic regulatory networks that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Designing and encoding models for synthetic biology."
+    ]
+}

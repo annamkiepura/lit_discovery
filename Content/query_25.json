@@ -1,0 +1,18 @@
+{
+    "query_id": 25,
+    "keywords": [
+        "Cancer immunotherapy",
+        "single-cell RNA sequencing",
+        "reinforcement learning",
+        "natural killer cells"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Biomedical Science on the topic of Precision Oncology that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Uncovering Predictive Gene and Cellular Signatures for Checkpoint Immunotherapy Response through Machine Learning Analysis of Immune Single-Cell RNA-seq Data.",
+        "Cell-cell communication network-based interpretable machine learning predicts cancer patient response to immune checkpoint inhibitors. ",
+        "The role of tumor microenvironment in drug resistance: emerging technologies to unravel breast cancer heterogeneity. ",
+        "From Images to Genes: Radiogenomics Based on Artificial Intelligence to Achieve Non\u2010Invasive Precision Medicine in Cancer Patients. ",
+        "Fighting fire with fire: deploying complexity in computational modeling to effectively characterize complex biological systems. "
+    ]
+}

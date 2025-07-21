@@ -1,0 +1,17 @@
+{
+    "query_id": 28,
+    "keywords": [
+        "Photocatalysis",
+        "2D materials",
+        "water splitting efficiency",
+        "time-resolved spectroscopy"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Chemistry on the topic of Hydrogen Production and Water Splitting that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Nanostructured heterogeneous photo-catalysts for hydrogen production and water splitting: A comprehensive insight. ",
+        "Nanocarbon-enhanced 2D photoelectrodes: a new paradigm in photoelectrochemical water splitting. ",
+        "Recent advances in noncontact external-field-assisted\u00a0photocatalysis: from fundamentals to applications. ",
+        "Recent advancement in LaFeO3-mediated systems towards photocatalytic and photoelectrocatalytic hydrogen evolution reaction: A comprehensive review. "
+    ]
+}

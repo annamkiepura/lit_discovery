@@ -1,0 +1,15 @@
+{
+    "query_id": 18,
+    "keywords": [
+        "Exoplanet",
+        "abiotic organic synthesis",
+        "volcanic outgassing"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Astronomy on the topic of Martian Methane that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "What it takes to solve the Origin(s) of Life: An Integrated Review of Techniques. ",
+        "Carbon Monoxide and the Potential for Prebiotic Chemistry on Habitable Planets around Main Sequence M Stars.",
+        "Deciphering Biosignatures in Planetary Contexts. "
+    ]
+}

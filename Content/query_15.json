@@ -1,0 +1,16 @@
+{
+    "query_id": 15,
+    "keywords": [
+        "Permafrost carbon feedback",
+        "synthetic biology",
+        "methanotrophs"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Microbiology on the topic of Microbial Genomics and Climate Change that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Permafrost meta-omics and climate change.",
+        "Microbial genomics amidst the Arctic crisis.",
+        "Bacterial functional redundancy and carbon metabolism potentials in soil, sediment, and water of thermokarst landscapes across the Qinghai-Tibet Plateau: Implications for the fate of permafrost carbon. ",
+        "Multifarious responses of forest soil microbial community toward climate change."
+    ]
+}

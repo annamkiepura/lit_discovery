@@ -1,0 +1,13 @@
+{
+    "query_id": 7,
+    "keywords": [
+        "Agent-based modeling",
+        "genetic regulatory networks",
+        "protein-DNA interactions"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": " Give me research papers in  Systems Biology on the topic of Transcription Factors that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "More than meets the eye: Emergent properties of transcription factors networks in Arabidopsis."
+    ]
+}

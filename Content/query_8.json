@@ -1,0 +1,16 @@
+{
+    "query_id": 8,
+    "keywords": [
+        "Quantum coherence",
+        "tumor microenvironments",
+        "oxidative stress"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Biomedical Sciences on the topic of Cancer Nanotherapeutics that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Magnetic resonance spectroscopic imaging of tumor metabolic markers for cancer diagnosis, metabolic phenotyping, and characterization of tumor microenvironment.",
+        "Metabolic reprogramming induced by ketone bodies diminishes pancreatic cancer cachexia.",
+        "Glucose limitation alters glutamine metabolism in MUC1-overexpressing pancreatic cancer cells",
+        "Unraveling the Role of Ras Homolog Enriched in Brain (Rheb1 and Rheb2): Bridging Neuronal Dynamics and Cancer Pathogenesis through Mechanistic Target of Rapamycin Signaling. "
+    ]
+}

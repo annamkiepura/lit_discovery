@@ -1,0 +1,15 @@
+{
+    "query_id": 30,
+    "keywords": [
+        "Photonic computing",
+        "bose-einstein condensates",
+        "neuromorphic hardware"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Engineering on the topic of Photonic Computing with Optical Metasurfaces that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Analog photonics computing for information processing, inference, and optimization. ",
+        "Synergy between AI and Optical Metasurfaces: A Critical Overview of Recent Advances. ",
+        "Leaky Integrate-and-Fire Mechanism in Exciton-Polariton Condensates for Photonic Spiking Neurons. "
+    ]
+}

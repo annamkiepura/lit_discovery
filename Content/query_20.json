@@ -1,0 +1,15 @@
+{
+    "query_id": 20,
+    "keywords": [
+        "Synaptic pruning",
+        "quantum tunneling",
+        "neurodegenerative diseases"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": " Give me research papers in Neuroscience on the topic of  Consciousness and Neurodegenerative Disorders that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "An Integrated Theoretical Framework for Understanding Human Consciousness: Conceptual and Block Matrix Representations. ",
+        "Adaptive Autonomic and Neuroplastic Control in Diabetic Neuropathy: A Narrative Review.",
+        "Neural Fabrics of the Mind: Systems Neuroscience, Systems Psychology and Consciousness. "
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_id": 27,
+    "keywords": [
+        "Topological insulators",
+        "nonlinear optics",
+        "photon upconversion",
+        "bismuth selenide"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Material Science on the topic of Fiber Laser Systems that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "S+/S band passively Q-switched thulium-fluoride fiber laser based on using gallium selenide saturable absorber. "
+    ]
+}

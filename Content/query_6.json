@@ -1,0 +1,15 @@
+{
+    "query_id": 6,
+    "keywords": [
+        "Swarm intelligence",
+        "ecosystem restoration",
+        "grasslands"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Environmental Studies on the topic of Computational Environmental Management that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Optimizing the ecological source area identification method and building ecological corridor using a genetic algorithm: A case study in Weihe River Basin, NW China",
+        "Modeling Production-Living-Ecological Space for Chengdu, China: An Analytical Framework Based on Machine Learning with Automatic Parameterization of Environmental Elements",
+        "Vertical partition patterns of infiltration within soil profile and its control factors at large-scale arid mountainous areas."
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "query_id": 12,
+    "keywords": [
+        "Persistent homology",
+        "connectomics",
+        "neural manifolds"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Neuroscience on the topic of Biological Neural Circuits that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Network analysis of time series: Novel approaches to network neuroscience",
+        "Specific inhibition and disinhibition in the higher-order structure of a cortical connectome.",
+        "Heterogeneous and higher-order cortical connectivity undergirds efficient, robust, and reliable neural codes. "
+    ]
+}

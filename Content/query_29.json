@@ -1,0 +1,21 @@
+{
+    "query_id": 29,
+    "keywords": [
+        "Language evolution",
+        "deep reinforcement learning",
+        "symbolic representation"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Computer Science on the topic of Language Learning and Symbolic Mapping that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Multi-Agent Language Learning: Symbolic Mapping. ",
+        "Symbol emergence in cognitive developmental systems: a survey. ",
+        "Emergence of linguistic communication from referential games with symbolic and pixel input. ",
+        "On the interaction between supervision and self-play in emergent communication. ",
+        "Toward More Human-Like AI Communication: A Review of Emergent Communication Research. ",
+        "Visually Grounded Language Learning: a review of language games, datasets, tasks, and models. ",
+        "ChatGPT in the age of generative AI and large language models: a concise survey. ",
+        "Pragmatic frames for teaching and learning in human\u2013robot interaction: Review and challenges. ",
+        "Models of symbol emergence in communication: a conceptual review and a guide for avoiding local minima. "
+    ]
+}

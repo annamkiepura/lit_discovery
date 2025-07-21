@@ -1,0 +1,18 @@
+{
+    "query_id": 14,
+    "keywords": [
+        "Piezoelectric materials",
+        "cellular mechanotransduction",
+        "ultrasound stimulation"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Biomedical Engineering on the topic of Musculoskeletal Tissue Engineering that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Research Trends of Piezoelectric Biomaterials in Osteochondral Tissue Engineering.",
+        "Piezoelectric Scaffolds as Smart Materials for Bone Tissue Engineering.",
+        "Noninvasive manipulation of cell adhesion for cell harvesting with piezoelectric composite film. ",
+        "Physically active bioreactors for tissue engineering applications.",
+        "Mechanically triggered adaptive materials.",
+        "The emerging role of Piezo1 in the musculoskeletal system and disease. "
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "query_id": 4,
+    "keywords": [
+        "Mars regolith",
+        "microbes in biofilms",
+        "simulated Mars environment"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Microbiology on the topic of Space Extremophile that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Tolerances of\u00a0Deinococcus geothermalis\u00a0Biofilms and Planktonic Cells Exposed to Space and Simulated Martian Conditions in Low Earth Orbit for Almost Two Years."
+    ]
+}

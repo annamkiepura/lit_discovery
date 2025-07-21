@@ -1,0 +1,15 @@
+{
+    "query_id": 17,
+    "keywords": [
+        "accelerometer",
+        "cell migration",
+        "protein folding"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Biomedical Sciences on the topic of Computational Genomics in Musculoskeletal Disorders that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Stimulation of denervated muscle: questions answered, questions raised.",
+        "Prediction and Identification of Kr\u00fcppel-like transcription factors by machine learning method.",
+        "Degenerative-Cervical 1 A001: Pain Is the Recovery Priority for Patients With Degenerative Cervical Myelopathy. "
+    ]
+}

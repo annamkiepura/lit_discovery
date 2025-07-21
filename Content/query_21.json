@@ -1,0 +1,13 @@
+{
+    "query_id": 21,
+    "keywords": [
+        "Predator-prey dynamics",
+        "game theory",
+        "climate-induced migration"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Environment Studies on the topic of Biodiversity Conservation that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Effective landscape restoration for native biodiversity in northern Victoria."
+    ]
+}

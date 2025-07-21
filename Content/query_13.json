@@ -1,0 +1,14 @@
+{
+    "query_id": 13,
+    "keywords": [
+        "Asteroid mining",
+        "geomicrobiology",
+        "biomineralization"
+    ],
+    "query1": "Find scientific articles that that include precisely the following set of keywords: ",
+    "query2": "Give me research papers in Geomicrobiology on the topic of Extremophile Biomining that contain precisely the following keywords: ",
+    "ground_truth_papers": [
+        "Synthetic\u00a0geomicrobiology: engineering microbe\u2013mineral interactions for space exploration and settlement.",
+        "The confluence of heavy metal biooxidation and heavy metal resistance: implications for bioleaching by extreme thermoacidophiles. "
+    ]
+}
